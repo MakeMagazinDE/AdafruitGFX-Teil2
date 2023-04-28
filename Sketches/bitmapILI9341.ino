@@ -7,10 +7,6 @@
 #define TFT_RST 4
 Adafruit_ILI9341 display = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RST);
 
-uint8_t fps = 30;
-unsigned long previousTime = 0;
-uint8_t currentFrame = 0;
-
 //Byte-Arrays HIER einfügen.
 
 
