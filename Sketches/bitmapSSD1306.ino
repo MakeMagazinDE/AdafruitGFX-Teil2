@@ -4,11 +4,6 @@
 
 Adafruit_SSD1306 display = Adafruit_SSD1306(128, 64, &Wire, -1);
 
-
-uint8_t fps = 30;
-unsigned long previousTime = 0;
-uint8_t currentFrame = 0;
-
 //Byte-Arrays HIER einfügen.
 
 
