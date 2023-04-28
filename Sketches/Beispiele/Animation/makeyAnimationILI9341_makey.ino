@@ -1561,9 +1561,7 @@ void setup() {
   display.setRotation(1);
 
   display.fillScreen(ILI9341_BLACK);
-  //display.drawBitmap(10,10,test8x8,8,8,ILI9341_WHITE, ILI9341_BLUE);
-  //display.drawBitmap(10,10,test8x8,8,8,ILI9341_WHITE);
-  //display.drawBitmap(20,20,test16x16,16,16,ILI9341_WHITE, ILI9341_GREEN);
+	
 }
 
 void loop() {
