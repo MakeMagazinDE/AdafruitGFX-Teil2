@@ -9,6 +9,6 @@ Maker Media GmbH
 
 In diesem Repository findet ihr die Sketches zum Artikel aus der Make 3/23.
 
-![Picture](https://github.com/MakeMagazinDE/AdafruitGFX-Teil2/blob/main/adafruit2_banner.png)
+![Picture](https://github.com/MakeMagazinDE/AdafruitGFX-Teil2/blob/main/adafruit2_banner.jpg)
 
 
